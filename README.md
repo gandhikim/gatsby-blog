@@ -1,9 +1,8 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# gatsby-blog
+Gandhi kim for creating a blog
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+Nelify URL : 
+    `https://optimistic-boyd-b0bdbc.netlify.com`
 
 ## Running in development
-`gatsby develop`
+`gatsby develop --host 0.0.0.0`
